@@ -9,14 +9,18 @@ To install Datamol and the tools, clone this repository and run the following co
 
 Copy code
 pip install -r requirements.txt
+
+
 Alternatively, if you do not want to install the package locally, you can use the provided notebooks in the notebooks directory or run them in Google Colab.
+
+
 Usage
 Each tool is contained in a separate Python script located in the tools directory. Simply navigate to the directory and run the desired script:
 
 If you would like to contribute to Datamol Tools, please create a pull request. Suggestions for new tools or improvements to existing ones are welcome.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - .
 
 Contact
 For any questions or suggestions, please contact the author at sbolivara16@gmail.com.
