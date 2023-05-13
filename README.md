@@ -6,18 +6,13 @@ This repository contains a collection of tools built with Datamol, a Python pack
 Installation
 To install Datamol and the tools, clone this repository and run the following command in your terminal:
 
-bash
+
 Copy code
 pip install -r requirements.txt
 Alternatively, if you do not want to install the package locally, you can use the provided notebooks in the notebooks directory or run them in Google Colab.
 Usage
 Each tool is contained in a separate Python script located in the tools directory. Simply navigate to the directory and run the desired script:
 
-bash
-Copy code
-cd tools/
-python tool_name.py
-Contributing
 If you would like to contribute to Datamol Tools, please create a pull request. Suggestions for new tools or improvements to existing ones are welcome.
 
 License
